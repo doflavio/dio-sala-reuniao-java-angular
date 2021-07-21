@@ -83,3 +83,11 @@ public class Room {
 
 
 }
+/*
+{
+  "nome":"crud",
+  "date":"21/07/201",
+  "startHour":"21hs",
+  "endHour":"23hs"
+}
+*/
